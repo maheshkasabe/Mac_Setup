@@ -32,7 +32,6 @@ install_cli_tools() {
         wget
         yarn
         go
-        docker
         minikube
     )
 
@@ -56,6 +55,7 @@ install_gui_tools() {
         visual-studio-code
         hyper
         lens
+        docker
         notion
     )
 
