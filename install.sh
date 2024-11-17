@@ -54,9 +54,9 @@ install_gui_tools() {
         brave
         visual-studio-code
         hyper
-        lens
-        docker
         notion
+        docker
+        rectangle
     )
 
     for APP in "${GUI_TOOLS[@]}"; do
